@@ -32,7 +32,7 @@ function App() {
     <div 
     className='w-full h-screen flex flex-col  bg-cover bg-no-repeat'
     style={{
-      backgroundImage: `url('https://images.pexels.com/photos/7567222/pexels-photo-7567222.jpeg?auto=compress&cs=tinysrgb&w=600')`
+      backgroundImage: `url('https://images.unsplash.com/photo-1651340981821-b519ad14da7c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y3VycmVuY3klMjBleGNoYW5nZXxlbnwwfHwwfHx8MA%3D%3D')`
     }}
     >
         <h1
